@@ -1,0 +1,70 @@
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).csproj.GenerateResource.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).AssemblyInfoInputs.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).AssemblyInfo.cs
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).csproj.CoreCompileInputs.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).MvcApplicationPartsAssemblyInfo.cs
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).MvcApplicationPartsAssemblyInfo.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).exe
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).deps.json
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).runtimeconfig.json
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).runtimeconfig.dev.json
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Test ASP Core Web Api (1).pdb
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\staticwebassets\Test ASP Core Web Api (1).StaticWebAssets.Manifest.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\staticwebassets\Test ASP Core Web Api (1).StaticWebAssets.xml
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test ASP Core Web Api (1).styles.css
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).RazorTargetAssemblyInfo.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).csproj.CopyComplete
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).pdb
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).genruntimeconfig.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test ASP Core Web Api (1).csprojAssemblyReference.cache
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Test ASP Core Web Api (1)\Test ASP Core Web Api (1)\obj\Debug\netcoreapp3.1\Test_ASP_Core_Web_Api__1_.Properties.Resources.resources

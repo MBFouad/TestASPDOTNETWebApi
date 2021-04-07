@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test ASP Core Web Api (1)", "Test ASP Core Web Api (1)\Test ASP Core Web Api (1).csproj", "{64ED0D40-6868-4A68-AC0D-A939AA5604EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64ED0D40-6868-4A68-AC0D-A939AA5604EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64ED0D40-6868-4A68-AC0D-A939AA5604EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64ED0D40-6868-4A68-AC0D-A939AA5604EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64ED0D40-6868-4A68-AC0D-A939AA5604EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F4A30D-A747-4A4F-B4FE-03B50B8E813E}
+	EndGlobalSection
+EndGlobal
