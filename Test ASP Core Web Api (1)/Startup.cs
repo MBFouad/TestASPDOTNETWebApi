@@ -12,6 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json.Serialization;
+
 using Test_ASP_Core_Web_Api__1_.Data;
 
 namespace Test_ASP_Core_Web_Api__1_
@@ -32,7 +34,9 @@ namespace Test_ASP_Core_Web_Api__1_
             services.AddDbContext<DBContext>(opt => opt.UseSqlServer(
                 Configuration.GetConnectionString("DbConnection")
                 ));
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(s => {
+                s.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
+            });
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IUserRepo, SqlConnactionRepo>();
             services.AddSwaggerGen(c =>

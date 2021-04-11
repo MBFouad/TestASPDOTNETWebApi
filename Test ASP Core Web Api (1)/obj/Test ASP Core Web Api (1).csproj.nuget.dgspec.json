@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj": {}
+    "D:\\TestASPDOTNETWebApi\\TestASPDOTNETWebApi\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj": {}
   },
   "projects": {
-    "E:\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj": {
+    "D:\\TestASPDOTNETWebApi\\TestASPDOTNETWebApi\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj",
+        "projectUniqueName": "D:\\TestASPDOTNETWebApi\\TestASPDOTNETWebApi\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj",
         "projectName": "Test ASP Core Web Api (1)",
-        "projectPath": "E:\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj",
-        "packagesPath": "C:\\Users\\MBahaa\\.nuget\\packages\\",
-        "outputPath": "E:\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1)\\obj\\",
+        "projectPath": "D:\\TestASPDOTNETWebApi\\TestASPDOTNETWebApi\\Test ASP Core Web Api (1)\\Test ASP Core Web Api (1).csproj",
+        "packagesPath": "C:\\Users\\mahmed\\.nuget\\packages\\",
+        "outputPath": "D:\\TestASPDOTNETWebApi\\TestASPDOTNETWebApi\\Test ASP Core Web Api (1)\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MBahaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,11 +41,18 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.14, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -87,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

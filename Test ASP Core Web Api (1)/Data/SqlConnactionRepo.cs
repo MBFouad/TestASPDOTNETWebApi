@@ -45,5 +45,15 @@ namespace Test_ASP_Core_Web_Api__1_.Data
         {
             return _context.User.ToList();
         }
+
+        public void DeleteUser(User user)
+        {
+            if (user == null)
+            {
+                throw new ArgumentNullException(nameof(user));
+            }
+
+            _context.User.Remove(user);
+        }
     }
 }

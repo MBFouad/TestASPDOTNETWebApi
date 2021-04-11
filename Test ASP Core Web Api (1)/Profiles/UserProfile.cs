@@ -19,6 +19,9 @@ namespace Test_ASP_Core_Web_Api__1_.Profiles
 
             CreateMap<UserUpdateDto, User>();
 
+            CreateMap<User, UserUpdateDto>();
+             
+
         }
     }
 }

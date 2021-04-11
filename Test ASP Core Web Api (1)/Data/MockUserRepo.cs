@@ -40,5 +40,10 @@ namespace Test_ASP_Core_Web_Api__1_.Data
         {
             throw new NotImplementedException();
         }
+
+        public void DeleteUser(User user)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

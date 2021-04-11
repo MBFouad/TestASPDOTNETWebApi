@@ -13,5 +13,7 @@ namespace Test_ASP_Core_Web_Api__1_.Data
 
         void CreateUser(Models.User user);
         void UpdateUser(Models.User user);
+
+        void DeleteUser(Models.User user);
     }
 }
