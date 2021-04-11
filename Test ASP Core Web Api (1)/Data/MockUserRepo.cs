@@ -8,6 +8,13 @@ namespace Test_ASP_Core_Web_Api__1_.Data
 {
     public class MockUserRepo : IUserRepo
     {
+
+        private DBContext _context;
+
+        public MockUserRepo(DBContext context)
+        {
+            _context = context;
+        }
         public void CreateUser(User user)
         {
             throw new NotImplementedException();
@@ -41,7 +48,7 @@ namespace Test_ASP_Core_Web_Api__1_.Data
             throw new NotImplementedException();
         }
 
-        public void DeleteUser(User user)
+        public void DeleteUser(User user) 
         {
             throw new NotImplementedException();
         }

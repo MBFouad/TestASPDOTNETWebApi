@@ -18,17 +18,21 @@ namespace Test_ASP_Core_Web_Api__1_.Controllers
         private IUserRepo _repository;
         private IMapper _mapper;
 
-        public UserController(IUserRepo repository, IMapper mapper)
+        private IUnitOfWork _unitofwork;
+
+        public UserController(IUserRepo repository, IMapper mapper,IUnitOfWork unitOfWork)
         {
             _repository = repository;
             _mapper = mapper;
+            _unitofwork = unitOfWork;
 
         }
 
         [HttpGet]
         public ActionResult<IEnumerable<UserReadDto>> GetAllUsers()
         {
-            var usersList = _repository.GetAllUsers();
+           var usersList = _repository.GetAllUsers();
+            var userByUnit = _unitofwork.UserRepo.GetAllUsers();
             return Ok(_mapper.Map<IEnumerable<UserReadDto>>(usersList));
 
         }

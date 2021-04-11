@@ -34,6 +34,8 @@ namespace Test_ASP_Core_Web_Api__1_
             services.AddDbContext<DBContext>(opt => opt.UseSqlServer(
                 Configuration.GetConnectionString("DbConnection")
                 ));
+
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddControllers().AddNewtonsoftJson(s => {
                 s.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
             });
